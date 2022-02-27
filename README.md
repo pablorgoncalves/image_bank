@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/HTML5--informational"/>
 </p>
 
-|* Endpoint              |* Methods |* Rule                                                                |
+|*Endpoint               | *Methods | *Rule                                                                |
 |------------------------|----------|----------------------------------------------------------------------|
 |home                    |GET       |/                                                                     |
 |upload                  |POST      |/upload                                                               |
