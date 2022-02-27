@@ -12,6 +12,6 @@
 |upload                  |POST      |/upload                                                               |
 |download_by_filename    |GET       |/download/<file_name>                                                 |
 |download                |GET       |/download                                                             |
-|download_zip            |GET       |/download-zip?file_extension= <FILE_EXTENSION> &compression_ratio= <RATIO> |
+|download_zip            |GET       |/download-zip?file_extension=<FILE_EXTENSION>&compression_ratio=<COMPRESSION_RATIO> |
 |list_files_by_extension |GET       |/files/<file_extension>                                                    |
 |list_all_files          |GET       |/files                                                                |
