@@ -1,4 +1,4 @@
-# Image Bank
+# Sample API - Image Bank 
 <p align="left">
 <img src="https://img.shields.io/badge/status-finalizado-brightgreen"/>
 <img src="https://img.shields.io/badge/python-3.6-yellow"/>
