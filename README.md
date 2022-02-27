@@ -14,4 +14,4 @@
 |download                |GET       |/download                                                             |
 |download_zip            |GET       |/download-zip?file_extension= <EXTENSION> &compression_ratio= <RATIO> |
 |list_all_files          |GET       |/files                                                                |
-|list_files_by_extension |GET       |/files/ <extension>                                                   |
+|list_files_by_extension |GET       |/files/'<extension>'                                                  |
