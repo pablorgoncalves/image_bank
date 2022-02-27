@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/HTML5--informational"/>
 </p>
 
-|*Endpoint               | *Methods | *Rule                                                                |
-|------------------------|----------|----------------------------------------------------------------------|
+|*Endpoints              | *Methods | *Rules |
+|------------------------|----------|-----------|
 |home                    |GET       |/                                                                     |
 |upload                  |POST      |/upload                                                               |
 |download_by_filename    |GET       |/download/<file_name>                                                 |
