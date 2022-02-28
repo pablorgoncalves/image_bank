@@ -1,9 +1,9 @@
 # Sample API - Image Bank 
 <p align="left">
-<img src="https://img.shields.io/badge/status-finalizado-brightgreen"/>
-<img src="https://img.shields.io/badge/python-3.6-yellow"/>
-<img src="https://img.shields.io/badge/linux-shell-orange"/>
-<img src="https://img.shields.io/badge/HTML5--informational"/>
+<img src="https://img.shields.io/badge/status-gradewaiting-yellow"/>
+<img src="https://img.shields.io/badge/python-3.6-blue"/>
+<img src="https://img.shields.io/badge/linux-shell-lightgrey"/>
+<img src="https://img.shields.io/badge/HTML5--red"/>
 </p>
 
 |*Endpoints              | *Methods | *Rules |
