@@ -1,10 +1,9 @@
 # Sample API - Image Bank 
 <p align="left">
-<img src="https://img.shields.io/static/v1?style=flat&logo=linux&label=status&message=gradewaiting&color=yellow"/>
-<img src="https://img.shields.io/badge/status-gradewaiting-yellow"/>
-<img src="https://img.shields.io/badge/python-3.6-blue"/>
-<img src="https://img.shields.io/badge/linux-shell-lightgrey"/>
-<img src="https://img.shields.io/badge/HTML5--red"/>
+<img src="https://img.shields.io/static/v1?style=flat&logo=linux&label=Status&message=Gradew Waiting&color=yellow"/>
+<img src="https://img.shields.io/static/v1?style=flat&logo=linux&label=Python&message=3.6&color=blue"/>
+<img src="https://img.shields.io/static/v1?style=flat&logo=linux&label=Linux&message=Zsh&color=lightgrey"/>
+<img src="https://img.shields.io/static/v1?style=flat&logo=html5&label=HTML5&message=&color=red"/>
 </p>
 
   
