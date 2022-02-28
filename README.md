@@ -1,11 +1,14 @@
 # Sample API - Image Bank 
 <p align="left">
+<img src="https://img.shields.io/static/v1?label=status&message=gradewaiting&color=yellow"/>
 <img src="https://img.shields.io/badge/status-gradewaiting-yellow"/>
 <img src="https://img.shields.io/badge/python-3.6-blue"/>
 <img src="https://img.shields.io/badge/linux-shell-lightgrey"/>
 <img src="https://img.shields.io/badge/HTML5--red"/>
 </p>
 
+https://img.shields.io/static/v1?label=status&message=gradewaiting&color=yellow
+  
 |*Endpoints              | *Methods | *Rules |
 |------------------------|----------|-----------|
 |home                    |GET       |/|
